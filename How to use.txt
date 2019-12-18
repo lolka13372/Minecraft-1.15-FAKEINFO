@@ -1,0 +1,6 @@
+[RU]
+Выберите нужные настройки и замените их в архиве 1.15.jar
+Вы также можете редактировать код через jbyteedit
+[US]
+Select the settings you need and replace them in the 1.15.jar archive
+You can also edit the code via jbyteedit

@@ -1,6 +1,8 @@
 [RU]
-Выберите нужные настройки и замените их в архиве 1.15.jar
-Вы также можете редактировать код через jbyteedit
+РСЃРїРѕР»СЊР·СѓР№С‚Рµ С‚РѕР»СЊРєРѕ 1.15 for modify
+Р’С‹Р±РµСЂРёС‚Рµ РЅСѓР¶РЅС‹Рµ РЅР°СЃС‚СЂРѕР№РєРё Рё Р·Р°РјРµРЅРёС‚Рµ РёС… РІ Р°СЂС…РёРІРµ 1.15.jar
+Р’С‹ С‚Р°РєР¶Рµ РјРѕР¶РµС‚Рµ СЂРµРґР°РєС‚РёСЂРѕРІР°С‚СЊ РєРѕРґ С‡РµСЂРµР· jbyteedit
 [US]
+Usage only 1.15 for modify
 Select the settings you need and replace them in the 1.15.jar archive
 You can also edit the code via jbyteedit

